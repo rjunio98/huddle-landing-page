@@ -1,0 +1,21 @@
+@media (max-width: 990px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-container img {
+        width: 100%;
+    }
+
+    .about {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .icons-container {
+        margin-top: 15px;
+    }
+}
