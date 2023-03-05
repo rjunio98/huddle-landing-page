@@ -67,6 +67,7 @@ body {
     padding: 10px;
     color: #fff;
     cursor: pointer;
+    transform: translateY(250px);
 }
 
 .about .icons-container .icon:hover {
