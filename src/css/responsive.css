@@ -1,4 +1,4 @@
-@media (max-width: 1024px) {
+@media (max-width: 1170px) {
     .about .icons-container .icon {
         transform: none;
     }
@@ -26,8 +26,3 @@
     }
 }
 
-@media (max-width: 365px) {
-    .header img {
-        margin-bottom: 30px;
-    }
-}
